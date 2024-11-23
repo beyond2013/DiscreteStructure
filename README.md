@@ -42,3 +42,6 @@ Grassman
 **Mid Term: 30%**  
 **Terminal: 40%**  
 **Assignments: 30%**  
+
+**Useful Online Resources**
+1. [Playlist of Video Lectures on Discrete Mathematics (Virtual University of Pakistan)](https://www.youtube.com/watch?v=wUnWTY4KabU&list=PLED0CBD623D22B07F&pp=iAQB)
