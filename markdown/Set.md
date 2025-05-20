@@ -13,5 +13,5 @@
 
 ## Different ways to Describe a set
 
-- **Roster method** : when possible list all members of a set e.g. $\left 1, 3, 5, 7, 9 \right $ or $\left a, e, i, o, u\right$
-- **Set Builder** : e.g. $\left 1, 3, 5, 7, 9\right may be written in set builder notation as $\left x \mid x \text{ is an odd positive integer less than 10} \right or $\left x \in \mathbb{Z}^+ \mid x \text{ is odd and } x < 10 \right$ 
+- **Roster method** : when possible list all members of a set e.g. $\left\{ 1, 3, 5, 7, 9 \right\} $ or $\left\{ a, e, i, o, u\right\}$
+- **Set Builder** : e.g. $\left\{ 1, 3, 5, 7, 9\right\}$ may be written in set builder notation as $\left\{ x \mid x \text{ is an odd positive integer less than 10} \right\}$ or $\left\{ x \in \mathbb{Z}^+ \mid x \text{ is odd and } x < 10 \right\}$ 
