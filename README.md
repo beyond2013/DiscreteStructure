@@ -26,6 +26,24 @@ permutations and combinations. Algorithms, Searching and Sorting Algorithms, ele
 graph theory, planar graphs, graph coloring, Graph Algorithms, euler graph, Hamiltonian
 path, rooted trees, traversals.
 
+---
+
+## Sequence of topics covered following the 1st book mentioned under reference
+
+1. Sets (Chapter 2.1, 2.2)
+2. Functions, Mappings, Function Composition, Inverse Functions (Chapter 2.3)
+3. Sequences and Summations (Chapter 2.4) 
+4. Introducing Fundamental Logic and Proofs 
+5. Mathematical Reasoning, Propositional and Predicate Logic, Rules of Inference (Chapter 1)
+6. Algorithms, Searching and Sorting Algorithms (Chapter 3)
+7. Number Theory (Chapter 4)
+8. Proof by Induction, Recursive Functions, Recurrence Relations (Chapter 5: Induction and Recursion)
+9. Counting, Inclusion and Exclusion Principle, Pigeonhole Principle, Permutations and Combinations (Chapter 6: Counting & Chapter 8: Advanced Counting Techniques, specifically 8.5 for Inclusion-Exclusion)
+10.  Relations, Equivalence Relations and Partitions, Partial Orderings (Chapter 9: Relations)
+11. Elements of Graph Theory, Planar Graphs, Graph Coloring, Graph Algorithms, Euler Graph, Hamiltonian Path, Rooted Trees, Traversals (Chapter 10: Graphs, Chapter 11: Trees)
+
+---
+
 **Reference Materials: (or use any other standard and latest books)**
 
 1. Discrete Mathematics and Its Applications, 7th edition by Kenneth H. Rosen
