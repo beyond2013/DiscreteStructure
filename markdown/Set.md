@@ -53,7 +53,7 @@
 
 ## Sets as members
 - sets can have other sets as members
-- e.g. $\lbrace \mathbb{N}, \mathbb{Z}, \mathbb{Q}, mathbb{R} \rbrace$, is a set containing four elements, each of which is a set. 
+- e.g. $\lbrace \mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R} \rbrace$, is a set containing four elements, each of which is a set. 
 
 ## Computing concepts built upon the concept of set
 - datatype: is the name of a set, together with a set of operations that can be performed on objects of the set.
