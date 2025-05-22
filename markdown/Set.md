@@ -50,3 +50,17 @@
 | Database Systems | SQL: WHERE age BETWEEN 18 AND 30            |
 | Web Forms        | Input validation: Accept values in [0, 100] |
 | Networking       | IP ranges (interval of addresses)           |
+
+## Sets as members
+- sets can have other sets as members
+- e.g. $\lbrace \mathbb{N}, \mathbb{Z}, \mathbb{Q}, mathbb{R} \rbrace$, is a set containing four elements, each of which is a set. 
+
+## Computing concepts built upon the concept of set
+- datatype: is the name of a set, together with a set of operations that can be performed on objects of the set.
+- e.g. boolean is the name of the set $\lbrace 0, 1 \rbrace$ together with operators on one or more elements of this set, such as AND, OR and NOT.
+
+## Equality of sets
+
+- Two sets are equal **if and only if**
+  + they have the same elements.
+- in mathematical notation $\forall x(x \in A \leftrightarrow x \in B ) $
