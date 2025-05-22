@@ -24,3 +24,29 @@
   + $\mathbb{R}$, the set of **real numbers**
   + $\mathbb{R}^+$, the set of **positive real numbers**
   + $\mathbb{C}$, the set of **complex numbers**
+- **Note: Some people do not consider 0 a natural number, so be carefull when you read other material**
+
+## Intervals
+
+### Real world Analogy
+- Suppose a university admit students whose ages fall between 18 and 24 years.
+- This naturally leads to the idea of including or excluding endpoints:
+  + Including both 18 and 24 = [18, 24]
+  + Excluding both 18 and 24 = (18, 24)
+  + Including 18 but not 24 = [18, 24)
+  + Including 24 but not 18 = (18, 24]
+### Visual representation 
+- When drawn on number line or graphs following notation is used:
+  + a filled circle means inclusion 
+  + an unfilled circle means excluded
+### Importance in Set Theory
+- Intervals are **subsets of real numbers**.
+- They model **continuous ranges**
+### Applications in computing
+
+| **Domain**       | **Use of Intervals**                        |
+|------------------|---------------------------------------------|
+| Programming      | Loop conditions: for(i=0; i< 10             |
+| Database Systems | SQL: WHERE age BETWEEN 18 AND 30            |
+| Web Forms        | Input validation: Accept values in [0, 100] |
+| Networking       | IP ranges (interval of addresses)           |
