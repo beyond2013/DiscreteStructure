@@ -30,7 +30,7 @@ path, rooted trees, traversals.
 
 ## Sequence of topics covered following the 1st book mentioned under reference
 
-1. Sets (Chapter 2.1, 2.2)
+1. [Sets](./markdown/Set.md) (Chapter 2.1, 2.2)
 2. Functions, Mappings, Function Composition, Inverse Functions (Chapter 2.3)
 3. Sequences and Summations (Chapter 2.4) 
 4. Introducing Fundamental Logic and Proofs 
