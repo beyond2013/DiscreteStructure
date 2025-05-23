@@ -64,3 +64,15 @@
 - Two sets are equal **if and only if**
   + they have the same elements.
 - in mathematical notation $\forall x(x \in A \leftrightarrow x \in B ) $
+- we write $A = B$ if A and B are equal sets.
+- $\lbrace 1, 3, 3, 3, 5, 5 \rbrace = \lbrace 1, 3, 5 \rbrace$, it does not matter if an element is listed more than once.
+- $\lbrace 1, 3, 5 \rbrace = \lbrace 5, 1, 3 \rbrace$, the order of elements is not important.
+
+## Georg Cantor (1845-1918) Founder of Set Theory
+<img src="../figure/Georg_Cantor.jpg" width="300" height="300" align="right">
+- Georg Cantor is considered the founder of set theory
+- His contributions include the discovery that the set of real numbers is uncountable
+
+## THE EMPTY SET
+- It is a set which has no element
+- Also called null set, and denoted by $\emptyset$
