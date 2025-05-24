@@ -69,10 +69,21 @@
 - $\lbrace 1, 3, 5 \rbrace = \lbrace 5, 1, 3 \rbrace$, the order of elements is not important.
 
 ## Georg Cantor (1845-1918) Founder of Set Theory
-<img src="../figure/Georg_Cantor.jpg" width="300" height="300" align="right">
-- Georg Cantor is considered the founder of set theory
-- His contributions include the discovery that the set of real numbers is uncountable
+<img src="../figure/Georg_Cantor.jpg" width="200" height="200" align="right">
+
+- Georg Cantor is considered the **founder of set theory**
+- His contributions include the discovery that the **set of real numbers is uncountable**
 
 ## THE EMPTY SET
 - It is a set which has no element
 - Also called null set, and denoted by $\emptyset$
+
+## SINGLETON SET
+- A set with one element is called a **singleton set**
+
+## Venn Diagrams
+- Sets can be represented graphically using Venn diagrams
+- Named after English mathematician **John Venn**
+- In Venn diagrams the **universal set U**, is represented by a **rectangle**
+- Inside this rectangle, **circles** or other geometrical figures **are used to represent sets**
+- **Points** are used to represent the particular **elements of the set**
