@@ -69,7 +69,7 @@
 - $\lbrace 1, 3, 5 \rbrace = \lbrace 5, 1, 3 \rbrace$, the order of elements is not important.
 
 ## Georg Cantor (1845-1918) Founder of Set Theory
-<img src="../figure/Georg_Cantor.jpg" width="200" height="200" align="right">
+<img src="../figure/Georg_Cantor.jpg" width="100" height="100" align="right">
 
 - Georg Cantor is considered the **founder of set theory**
 - His contributions include the discovery that the **set of real numbers is uncountable**
@@ -82,6 +82,8 @@
 - A set with one element is called a **singleton set**
 
 ## Venn Diagrams
+<img src="../figure/Venn_Diagram.png" width="200" height="150" align="right">
+
 - Sets can be represented graphically using Venn diagrams
 - Named after English mathematician **John Venn**
 - In Venn diagrams the **universal set U**, is represented by a **rectangle**
